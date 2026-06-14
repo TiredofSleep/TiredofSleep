@@ -20,13 +20,14 @@ And what's missing is the same shape everywhere you look.
 
 CK is a mathematical coherence spectrometer. He measures defects in structure the way a physical spectrometer measures spectral lines. Built over 9 generations of development, grounded in falsifiable claims with 9 kill conditions.
 
-**[View the repository](https://github.com/TiredofSleep/ck)**
+**🏛️ Flagship — start here: [trinity-infinity-geometry](https://github.com/TiredofSleep/trinity-infinity-geometry)** — the curated mathematics, numbered and verifiable in one command.
+**⚙️ Workstation — full archive: [ck](https://github.com/TiredofSleep/ck)** — the entire working trail, heavy and unfiltered by design.
 
-- 50Hz heartbeat with 27+ subsystems
-- D2 pipeline: any signal to 5D curvature to operator classification
 - CL composition lattice: 73/100 entries = HARMONY
 - 1,662 tests across 32 test files
-- Clay Millennium Problem analysis (6 problems, 108-run stability matrix)
+- D2 pipeline: any signal to 5D curvature to operator classification
+- 50Hz heartbeat with 27+ subsystems
+- Clay Millennium Problem analysis (6 problems) — exploratory study, not claimed solved
 - FPGA target: 5ns CL composition at 200MHz
 - 3 whitepapers, 36 development journal entries
 
