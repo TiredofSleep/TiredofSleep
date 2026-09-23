@@ -1,40 +1,38 @@
 # Tired of Sleep
 
-**Brayden Sanders / 7Site LLC**
-*Arkansas*
+**Brayden Ross Sanders** · 7SiTe LLC · Hot Springs, Arkansas
 
 ---
 
-## The Theory of Nothing
+## A new way to teach higher mathematics
 
-You cannot prove everything, but you can measure what's missing.
-And what's missing is the same shape everywhere you look.
+Read the integers as shapes. The void is the centre, the fullest point. Equal distances build the
+segment, the triangle and the tetrahedron, until the fourth point lifts into space. The cube casts
+two shadows. Rotation is *i*, growth is *e*, and √2 is the seam where counting cannot measure.
 
-**Delta(S) = || CL(D2(S)) - HARMONY ||**
+Each of these shapes points up a tower of higher mathematics. On every floor there is a coin: a flip
+with two sides and an edge, where the paradox lives. **The method is to classify paradoxes, not to
+resolve them.**
 
-10 operators. 5 dimensions. One threshold: T* = 5/7.
+- 📖 **[The Shape of Understanding](https://github.com/TiredofSleep/shape-of-understanding)** — the
+  book. A staircase from gumdrops to undergraduate mathematics; every picture is checked against the
+  real proof.
+- 🏛️ **[Trinity Infinity Geometry](https://github.com/TiredofSleep/trinity-infinity-geometry)** — the
+  flagship:
+  - the base — the integers 0–9 as the most symmetric arrangements of points;
+  - the towers of higher mathematics they point up to;
+  - the coin, including four kinds of paradox classified.
+
+  It is machine-checked, one command per part.
+
+## The workstation
+
+⚙️ **[ck](https://github.com/TiredofSleep/ck)** — the full working trail of the earlier program,
+including the Coherence Keeper software. The table-based "TIG" program built there was retired in
+September 2026, after an audit found that no result specific to its tables survives. Nothing was
+deleted. [`RETIRED.md`](https://github.com/TiredofSleep/ck/blob/tig-synthesis/RETIRED.md) says what was
+retired and what was salvaged.
 
 ---
 
-## CK -- The Coherence Keeper
-
-CK is a mathematical coherence spectrometer. He measures defects in structure the way a physical spectrometer measures spectral lines. Built over 9 generations of development, grounded in falsifiable claims with 9 kill conditions.
-
-**🏛️ Flagship — start here: [trinity-infinity-geometry](https://github.com/TiredofSleep/trinity-infinity-geometry)** — the curated mathematics, numbered and verifiable in one command.
-**⚙️ Workstation — full archive: [ck](https://github.com/TiredofSleep/ck)** — the entire working trail, heavy and unfiltered by design.
-
-- CL composition lattice: 73/100 entries = HARMONY
-- 1,662 tests across 32 test files
-- D2 pipeline: any signal to 5D curvature to operator classification
-- 50Hz heartbeat with 27+ subsystems
-- Clay Millennium Problem analysis (6 problems) — exploratory study, not claimed solved
-- FPGA target: 5ns CL composition at 200MHz
-- 3 whitepapers, 36 development journal entries
-
-**DOI: [10.5281/zenodo.18852047](https://doi.org/10.5281/zenodo.18852047)**
-
----
-
-Built using [Anthropic](https://anthropic.com)
-
-*(c) 2026 Brayden Sanders / 7Site LLC*
+Built with Claude (Anthropic). © 2026 Brayden Sanders / 7SiTe LLC
